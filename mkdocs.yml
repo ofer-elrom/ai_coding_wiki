@@ -3,7 +3,7 @@ site_description: Learnings about professionally writing code with AI, extracted
 
 
 # Serve the markdown files straight from this folder (no docs/ subdir needed).
-docs_dir: .
+docs_dir: docs
 
 theme:
   name: material
