@@ -4,7 +4,7 @@
 
 *Part of the [Coding with AI wiki](index.md). Prev: [08 · Tools, Harnesses & Form Factors](08-tools-harnesses-and-form-factors.md) · Next: [10 · Agents as Users & Infrastructure](10-agents-as-users-and-infrastructure.md)*
 
-> Note on model names: the corpus spans late 2023 to mid-2026 and references many model versions (GPT-4, o1/o1-pro, o3, Opus 4 → 4.6, Sonnet 4.5/4.6, Codex / GPT-5.x, Spark, Gemini 3). The *specific* rankings below are snapshots; the durable lessons are the selection *principles*.
+> Note on model names:  the corpus spans late 2023 to mid-2026 and references many model versions (GPT-4, o1/o1-pro, o3, Opus 4 → 4.6, Sonnet 4.5/4.6, Codex / GPT-5.x, Spark, Gemini 3). The *specific* rankings below are snapshots; the durable lessons are the selection *principles*.
 
 ---
 
