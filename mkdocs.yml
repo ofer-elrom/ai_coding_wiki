@@ -1,9 +1,6 @@
 site_name: Coding With AI — A Practical Wiki
 site_description: Learnings about professionally writing code with AI, extracted from Every's "AI & I" podcast.
 
-# Serve the markdown files straight from this folder (no docs/ subdir needed).
-docs_dir: .
-
 theme:
   name: material
   palette:
